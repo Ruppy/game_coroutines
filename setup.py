@@ -19,7 +19,7 @@ setup(
     keywords='pygame arcade coroutines routines sprites',
     author='Leonardo Baptista',
     author_email='leonardoobaptistaa@gmail.com',
-    url='https://github.com/ruppy/game_coroutines',
+    url='https://github.com/Ruppy/game_coroutines',
     license='MIT',
     packages=find_packages(exclude=['ez_setup', 'examples', 'tests']),
     py_modules='game_coroutines',
